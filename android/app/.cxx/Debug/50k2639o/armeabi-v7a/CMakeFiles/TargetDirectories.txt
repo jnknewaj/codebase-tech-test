@@ -1,0 +1,2 @@
+/home/newaj/ngb/Test/codebasetechtest/android/app/.cxx/Debug/50k2639o/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/newaj/ngb/Test/codebasetechtest/android/app/.cxx/Debug/50k2639o/armeabi-v7a/CMakeFiles/rebuild_cache.dir

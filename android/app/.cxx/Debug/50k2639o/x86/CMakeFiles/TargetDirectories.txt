@@ -1,0 +1,2 @@
+/home/newaj/ngb/Test/codebasetechtest/android/app/.cxx/Debug/50k2639o/x86/CMakeFiles/edit_cache.dir
+/home/newaj/ngb/Test/codebasetechtest/android/app/.cxx/Debug/50k2639o/x86/CMakeFiles/rebuild_cache.dir
